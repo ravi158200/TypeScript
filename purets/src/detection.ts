@@ -28,11 +28,6 @@ function printAll(strs: string | string[] | null) {
     }
 }
 
-// const user: User  = {
-//     name: string,
-//     email: string
-// }
-
 interface user {
     name: string,
     email: string
